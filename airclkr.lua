@@ -1,6 +1,6 @@
 -- airclkr//
 -- Link to MIDI Bridge
--- v1.1.1 (by Dirk Becker)
+-- v1.1.1 (by MonCalamari)
 --
 -- E1: Tempo (nur wenn allein!)
 -- K1 + E1: Port (nur im Stop)
